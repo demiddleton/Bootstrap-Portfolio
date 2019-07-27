@@ -37,39 +37,46 @@
             </div>
         </nav>
     </div>
-    <div id="main-container" class="container">
-        <section class="main-section">
-            <h1>Contact</h1>
 
-            <form id="contact-form">
-                <ul>
-                    <li>
-                        <label for="name">Name</label>
-                        <input type="text" id="name" name="name" placeholder="John Smith" required="required">
-                    </li>
-                    <li>
-                        <label for="email">Email</label>
-                        <input type="email" id="email" name="email" placeholder="example@gmail.com" required="required">
-                    </li>
-                    <li>
-                        <label for="message">Message</label>
-                        <textarea id="message" name="message" required="required"></textarea>
-                    </li>
-                </ul>
-                <input type="submit">
-            </form>
+    <div class="w-100"></div>
 
-        </section>
-
-    </div>
-
-    <footer>
-            <div class="card text-center sticky-bottom text-white bg-dark mb-3">
-              <div class="card-header">
-                Copyright &copy;
-              </div>
+    <div class="container">
+        <!--Main Content Row 1 of 4-->
+        <div class="row">
+            <div class="col-md-12">
+                <br><br>
+                <p class="display-4">Contact</p>
+                <hr>
             </div>
-          </footer>
+        </div>
+
+        <div class="w-100"></div>
+
+        <div class="w-100"></div>
+
+        <form>
+            <div class="form-group">
+                <label for="exampleFormControlTextarea1">Name</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="1"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="exampleFormControlInput1">Email address</label>
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+            </div>
+
+            <div class="form-group">
+                <label for="exampleFormControlTextarea1">Message</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
 </body>
+<!--Footer-->
+<div class="row">
+    <nav class="navbar navbar-expand-lg fixed-bottom text-white text-center navbar-dark bg-dark">
+        <!--Nav column 1 of 2-->
+        <div class="col-md-12">
+            <a class="navbar-brand" id="logo">Copyright &copy;</a>
+        </div>
 
 </html>
