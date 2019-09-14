@@ -4,7 +4,5 @@
 Using Bootstrap, create a portfolio with the following items:
    
     * Navbar    
-
-    * Responsive layout 
-    
+    * Responsive layout     
     * Responsive images
