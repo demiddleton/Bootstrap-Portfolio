@@ -1,10 +1,10 @@
 # Bootstrap-Portfolio
 -----------------------------------------------------------------------------
-# Overview
+## Overview
 Using Bootstrap, create a portfolio with the following items:
    
-    A navbar    
+    * Navbar    
 
-    A responsive layout (remember the grid, rows and columns are your friends)
+    * Responsive layout 
     
-    Responsive images
+    * Responsive images
