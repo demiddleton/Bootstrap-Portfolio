@@ -1,9 +1,8 @@
 # Bootstrap-Portfolio
-Overview
-For this project, I've re-created the simple portfolio done for the Basic Portfolio assignment using the Boostrap CSS framework
+# Overview
+Using Bootstrap, create a portfolio with the following items:
+    A navbar    
 
-
-Built with
-HTML
-CSS
-Bootstrap CSS Framework
+    A responsive layout (remember the grid, rows and columns are your friends)
+    
+    Responsive images
