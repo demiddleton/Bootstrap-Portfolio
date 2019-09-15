@@ -127,7 +127,7 @@ body {
     float: left;
     width: 100%;
     max-width: 960px;
-    padding: 30px;
+    padding: 20px;
     margin: 0 0 40px;
     background: #ffffff;
     border: 1px solid #dddddd;
@@ -215,3 +215,5 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+
+  
