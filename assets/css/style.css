@@ -70,6 +70,9 @@ body {
   }
   
   /* main */
+  #pic {
+    margin-bottom: 10px;
+  }
   
   #main-container {
     padding-top: 130px;
