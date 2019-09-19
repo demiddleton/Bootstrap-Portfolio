@@ -9,6 +9,7 @@ With periodic updates, the hope is to present this site to showcase knowledge le
  * [Psychic Game] (https://demiddleton.github.io/Psychic-Game/)
  * [Crystals Collector Game] (https://demiddleton.github.io/unit-4-game/)
  * [Trivia Game] (https://demiddleton.github.io/TriviaGame/)
+ * [Train Scheduler] (https://demiddleton.github.io/Train-Scheduler/)
 
 ## Technologies Used
  * HTML5
